@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-api",
   "version": "1.0.0",
-  "description": "Whatsapp api by Ngekoding",
+  "description": "Whatsapp api by Rogermakan",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,7 +12,7 @@
     "whatsapp-api",
     "node.js"
   ],
-  "author": "Nur Muhammad",
+  "author": "Rogermakan",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
@@ -23,7 +23,7 @@
     "pg": "^8.5.1",
     "qrcode": "^1.4.4",
     "socket.io": "2.3.0",
-    "whatsapp-web.js": "^1.12.5"
+    "whatsapp-web.js": "^1.13.2"
   },
   "engines": {
     "node": "v14.17.0"
